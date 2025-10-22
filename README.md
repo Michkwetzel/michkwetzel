@@ -17,4 +17,4 @@ Founding engineer who builds enterprise-scale platforms from scratch. I architec
 
 ---
 
-📫 **Connect**: [LinkedIn](#) | [Email](#) | [Portfolio](#)
+📫 **Connect**: [LinkedIn](https://www.linkedin.com/in/michkwetzel/) | [Email](michkwetzel@gmail.com) | Portfolio - (still working on it)
