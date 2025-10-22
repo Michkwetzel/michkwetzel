@@ -2,12 +2,12 @@
 
 Founding engineer who builds enterprise-scale platforms from scratch. I architect systems for real-world complexity, lead cross-functional teams, and ship production-ready software.
 
-## Technical Focus
+## Interests
 
 - Full-stack development (Flutter/Dart, Python)
-- Serverless architecture (Cloud Functions, Firestore)
+- Serverless architecture (GCP)
 - Solution Design
-- Real-time collaboration systems
+- Product Development
 
 ## Case Studies
 
