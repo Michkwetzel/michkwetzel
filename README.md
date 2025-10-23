@@ -16,7 +16,5 @@ End-to-end enterprise assessment platform. Solo engineer, 4 months, 95% completi
 
 Canvas-based org builder with real-time collaboration. Architected for 6,000+ employees with infinite hierarchy support.
 
-(Currently busy getting the demo repo ready)
-
 ---
 📫 **Connect**: [LinkedIn](https://www.linkedin.com/in/michkwetzel/) | [Email](mailto:michkwetzel@gmail.com) | Portfolio (Coming Soon!!)
