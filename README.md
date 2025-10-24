@@ -17,7 +17,7 @@ End-to-end enterprise assessment platform. Solo engineer, 95% completion rate wi
 
 🎯 **[Enterprise OrgStudio Platform v2](https://experienced-echinodon-231.notion.site/Case-Study-2-Enterprise-OrgStudio-Platform-294b502d0e3a80b5a9c0f2e8165d1cb9)** | [Tech Deep Dive](https://experienced-echinodon-231.notion.site/Case-Study-2-OrgStudio-Tech-Deep-Dive-293b502d0e3a806d8fe4e60f803a8723?source=copy_link)
 
-Canvas-based org builder with real-time collaboration. Architected for 6,000+ employees with infinite hierarchy support.
+Canvas-based org builder with real-time collaboration and integrated business logic. Architected for 6,000+ users
 
 ---
 📫 **Connect**: [LinkedIn](https://www.linkedin.com/in/michkwetzel/) | [Email](mailto:michkwetzel@gmail.com) | Portfolio (Coming Soon!!)
