@@ -1,11 +1,14 @@
 # Hi, I'm Michael 👋
 Founding engineer who builds enterprise-scale platforms from scratch. I architect systems for real-world complexity, lead cross-functional teams, and ship production-ready software.
 
-## Interests
+## Top Skills
 - Full-stack development (Flutter/Dart, Python)
 - Serverless architecture (GCP)
 - Solution Design
 - Product Development
+
+## Current Learnings
+- Javascript/Typescript and React
 
 ## Case Studies
 📊 **[LucidOrg Assessment Platform v1](https://experienced-echinodon-231.notion.site/Case-Study-1-Assessment-Platform-MVP-294b502d0e3a809f8142e4b78171f6e7)** | [Tech Deep Dive](https://experienced-echinodon-231.notion.site/Case-Study-1-Assessment-Platform-MVP-Tech-Deep-Dive-28db502d0e3a80aa9a12c88c7a4a274c?source=copy_link)
