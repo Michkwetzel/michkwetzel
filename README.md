@@ -1,40 +1,21 @@
 # Hi, I'm Michael 👋
 
-I'm a full stack engineer who transforms ambitious ideas into products that make a real difference. My journey has been anything but conventional—from a Mechatronics Engineering degree to superyacht engineering across Europe, then AI consulting, and most recently as a founding engineer at a startup. Each step taught me to adapt fast and consistently deliver high quality work.
+Founding engineer with proven track record building enterprise-scale platforms from 0→1. I architect systems for real-world complexity, lead technical execution, and ship production-ready software that scales.
 
-I'm driven by impact and can own a development cycle end to end. I love what I do and have a passion for building great products.
+## What I Bring
+- Full-stack development (Flutter/Dart, Python, learning React/TypeScript)
+- Serverless architecture & cloud infrastructure (GCP)
+- End-to-end product ownership: from requirements to production
+- Product thinking and a love for solution design
 
-## 🎯 What Drives Me
+## Recent Work
 
-**Product thinking** shapes how I approach my work. I care deeply about understanding whether we're solving the right problem for the right user. While I know that sometimes you just need to ship and iterate, I believe spending time upfront to validate assumptions leads to products that truly resonate—and saves countless hours of rework down the line.
+📊 **Assessment Platform v1** | [Case Study](https://experienced-echinodon-231.notion.site/Case-Study-1-Assessment-Platform-MVP-294b502d0e3a809f8142e4b78171f6e7) | [Tech Deep Dive](https://experienced-echinodon-231.notion.site/Case-Study-1-Assessment-Platform-MVP-Tech-Deep-Dive-28db502d0e3a80aa9a12c88c7a4a274c)  
+Client-facing assessment platform. Solo technical ownership, 95% completion rate with first enterprise client.
 
-I'm equally passionate about **solution design**. Having built full-stack production applications solo, I've developed a deep appreciation for the entire journey—from vision to architecture to launch. There's something uniquely satisfying about figuring out how to turn an ambitious idea into a robust technical reality.
-
-## 💼 What I'm Looking For
-
-Right now, I'm seeking my next opportunity with a European company doing work that they believe in. I thrive in hybrid environments where in-person collaboration sparks the best ideas, balanced with the focus that remote work provides when it makes sense.
-
-## 🚀 Top Skills
-
-- End-to-End Full-stack development (Flutter/Dart, Python)
-- Serverless architecture (GCP)
-- Solution Design
-- Product Development
-
-## 📚 Current Learnings
-
-- Javascript and React
-
-## 💡 Case Studies
-
-📊 **[LucidOrg Assessment Platform v1](https://experienced-echinodon-231.notion.site/Case-Study-1-Assessment-Platform-MVP-294b502d0e3a809f8142e4b78171f6e7)** | [Tech Deep Dive](https://experienced-echinodon-231.notion.site/Case-Study-1-Assessment-Platform-MVP-Tech-Deep-Dive-28db502d0e3a80aa9a12c88c7a4a274c?source=copy_link)
-
-Client facing assessment platform. Solo engineer, 95% completion rate with first client.
-
-🎯 **[Enterprise OrgStudio Platform v2](https://experienced-echinodon-231.notion.site/Case-Study-2-Enterprise-OrgStudio-Platform-294b502d0e3a80b5a9c0f2e8165d1cb9)** | [Tech Deep Dive](https://experienced-echinodon-231.notion.site/Case-Study-2-OrgStudio-Tech-Deep-Dive-293b502d0e3a806d8fe4e60f803a8723?source=copy_link)
-
-Canvas-based org builder with real-time collaboration and integrated business logic. Architected for enterprise companies with 6000+ employees.
+🎯 **OrgStudio Platform v2** | [Case Study](https://experienced-echinodon-231.notion.site/Case-Study-2-Enterprise-OrgStudio-Platform-294b502d0e3a80b5a9c0f2e8165d1cb9) | [Tech Deep Dive](https://experienced-echinodon-231.notion.site/Case-Study-2-OrgStudio-Tech-Deep-Dive-293b502d0e3a806d8fe4e60f803a8723)  
+Canvas-based org design tool with real-time collaboration. Architected to support 6,000+ employee organizations.
 
 ---
 
-📫 **Connect**: [LinkedIn](https://www.linkedin.com/in/michkwetzel/) | [Email](mailto:michkwetzel@gmail.com) | Portfolio (Coming Soon!!)
+📫 **Let's connect**: [LinkedIn](https://www.linkedin.com/in/michkwetzel/) | [Email](mailto:michkwetzel@gmail.com)
