@@ -18,4 +18,4 @@ Canvas-based org design tool with real-time collaboration. Architected to suppor
 
 ---
 
-📫 **Let's connect**: [LinkedIn](https://www.linkedin.com/in/michkwetzel/) | [Email](mailto:michkwetzel@gmail.com) | [Personal Website](https://mikewetzel.tech/)
+[Personal Website](https://mikewetzel.tech/) | [LinkedIn](https://www.linkedin.com/in/michkwetzel/) | [Email](mailto:michkwetzel@gmail.com)
