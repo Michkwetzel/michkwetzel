@@ -18,6 +18,9 @@ Client-facing assessment platform. Solo technical ownership, 95% completion rate
 🎯 **OrgStudio Platform v2** | [Case Study](https://experienced-echinodon-231.notion.site/Case-Study-2-Enterprise-OrgStudio-Platform-294b502d0e3a80b5a9c0f2e8165d1cb9) | [Tech Deep Dive](https://experienced-echinodon-231.notion.site/Case-Study-2-OrgStudio-Tech-Deep-Dive-293b502d0e3a806d8fe4e60f803a8723) | [Live Demo](https://orgstudio.mikewetzel.tech/)  
 Canvas-based org design tool with real-time collaboration. Architected to support 6,000+ employee organizations.
 
+📝 **Product Lessons** | [Read Article](https://experienced-echinodon-231.notion.site/Hard-Won-Product-Lessons-from-a-Founding-Engineer-2a0b502d0e3a80b9bf11d3d680f57e50?source=copy_link)  
+Reflections on 6 months building an assessment platform: validation, user research, and focus as competitive advantage. 
+
 ---
 
 ## Personal Projects  
